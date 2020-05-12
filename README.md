@@ -7,3 +7,6 @@ Translated Homebrews:
 
 HAN-Toolbox
 https://github.com/ShaolinAssassin/HAN-Toolbox/releases
+
+NOBORU
+https://github.com/Creckeryop/NOBORU
